@@ -1,1 +1,2 @@
-Este es mi primer archivo
+Este es mi primer archivo ana
+Mi primer clase de git
