@@ -17,6 +17,13 @@ body
     color: white;
     margin: 0;
     padding: 0.5cm;
+    
+}
+
+#cabecera #logo
+{
+    width: 20 px;
+    vertical-align: middle;
 }
 #container{
     width: 70%;
